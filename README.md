@@ -19,3 +19,13 @@ Here, you'll find a collection of projects ranging from complete web application
 🤝 Let’s Connect:
 I'm always eager for new challenges and collaboration opportunities. Whether you're interested in discussing potential projects, exchanging knowledge, or just saying hello, feel free to reach out!
 
+🌐 Connect with Me:
+
+LinkedIn: https://www.linkedin.com/in/mohamed-trabelsi-5a8328224/
+
+🛠️ Technical Skills:
+
+Languages: C, Java, Python, JavaScript, PHP
+Web Development: HTML5, CSS3, Bootstrap, jQuery, Node.js, Express.js
+Platforms & Tools: Git, GitHub Pages, Apache
+
